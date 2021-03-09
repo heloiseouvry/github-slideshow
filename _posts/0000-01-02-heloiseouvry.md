@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+> “Life would be much easier if I had the source code.”
 Use the left arrow to go back!
